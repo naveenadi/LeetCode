@@ -13,5 +13,5 @@ _If you like this project, please leave me a star._ &#9733;
 ### Contents
 
 |  #  |  Title  |  README  |  Time  |  Space  |  Video  |  Difficulty  |  Tag                   
-|-----|---------|----------|--------|---------|---------|--------|-----|-------
+|-----|---------|----------|--------|---------|---------|--------------|-------
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[:green_book:]() ||||Easy||
