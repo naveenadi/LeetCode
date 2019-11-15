@@ -14,4 +14,4 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |  Title  |  README  |  Time  |  Space  |  Video  |  Difficulty  |  Tag                   
 |-----|---------|:--------:|--------|---------|---------|--------------|-------
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[:green_book:](https://github.com/aditya612/LeetCode/tree/aditya612-patch-1/src/1.%20Two%20Sum) ||||Easy||
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[:green_book:](https://github.com/aditya612/LeetCode/tree/master/src/1.%20Two%20Sum) ||||Easy||
