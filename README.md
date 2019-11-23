@@ -14,7 +14,7 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |  Title  |  README  |  Time  |  Space  |  Video  |  Difficulty  |  Tag                   
 |-----|---------|:--------:|--------|---------|---------|--------------|-------
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[:green_book:](src/two-sum) ||||Easy| Array, Hash Table |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[:green_book:](src/add-two-numbers) ||||Medium| Linked List, Math |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[:green_book:](src/two-sum)||||Easy|Array, Hash Table|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[:green_book:](src/add-two-numbers)||||Medium|Linked List, Math|
 
 
