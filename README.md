@@ -17,6 +17,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[:green_book:](src/two-sum)||||Easy|Array, Hash Table|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[:green_book:](src/add-two-numbers)||||Medium|Linked List, Math|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[:green_book:](src/longest-substring-without-repeating-characters)||||Medium|Hash Table, Two Pointers, String, Sliding Window|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[:green_book:](src/median-of-two-sorted-arrays)|O(log(min(m,n)))|O(1)|Hard|Array, Binary Search, Divide and Conquer|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[:green_book:](src/median-of-two-sorted-arrays)|O(log(min(m,n)))|O(1)||Hard|Array, Binary Search, Divide and Conquer|
 
 
